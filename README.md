@@ -14,11 +14,15 @@ With a background in clinical research and medical affairs, I focus on bridging 
 
 - Coming soon: Evaluation of diagnostic AI models
 
+### Diabetes Model Evaluation
+- Built a basic ML model for diabetes prediction
+- Evaluated model performance using accuracy and classification metrics
+- Interpreted results from a clinical perspective
+
 ## Skills
 
 - Medical expertise: Medical affairs, Clinical trials
 - AI/ML: Model evaluation, performance metrics
-- Tools: Python, pandas, scikit-learn
 
 ## Contact
 
