@@ -9,3 +9,7 @@ This portfolio focuses on evaluating AI models for clinical validity, safety, an
 AI models in healthcare require more than accuracy — they must be clinically valid, safe, and applicable in real-world settings.
 
 With a background in clinical research and medical affairs, I focus on bridging the gap between AI development and clinical practice.
+
+## Projects
+
+- Coming soon: Evaluation of diagnostic AI models
