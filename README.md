@@ -14,8 +14,12 @@ With a background in clinical research and medical affairs, I focus on bridging 
 
 - Coming soon: Evaluation of diagnostic AI models
 
-- ## Skills
+## Skills
 
 - Medical expertise: Medical affairs, Clinical trials
 - AI/ML: Model evaluation, performance metrics
 - Tools: Python, pandas, scikit-learn
+
+## Contact
+
+LinkedIn: [www.linkedin.com/in/demet-y-ab7a26349]
