@@ -13,3 +13,9 @@ With a background in clinical research and medical affairs, I focus on bridging 
 ## Projects
 
 - Coming soon: Evaluation of diagnostic AI models
+
+- ## Skills
+
+- Medical expertise: Medical affairs, Clinical trials
+- AI/ML: Model evaluation, performance metrics
+- Tools: Python, pandas, scikit-learn
